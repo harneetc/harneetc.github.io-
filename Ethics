@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IT Ethics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="ethics.html">Ethics</a> |
+            <a href="about.html">About</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Ethical Considerations for Developers</h1>
+        <p>Developers must ensure that their software respects privacy, promotes transparency, and does not discriminate against users.</p>
+        <p>For example, data scientists should follow guidelines like the ACM Code of Ethics, ensuring fair and unbiased treatment of data.</p>
+
+        <p><strong>Reference:</strong> ACM Code of Ethics, <a href="https://www.acm.org/code-of-ethics" target="_blank">https://www.acm.org/code-of-ethics</a></p>
+    </main>
+</body>
+</html>
